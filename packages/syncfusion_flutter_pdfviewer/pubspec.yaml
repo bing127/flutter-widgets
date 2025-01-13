@@ -43,7 +43,7 @@ dependencies:
   http: ^1.0.0
   uuid: ^4.1.0
   device_info_plus: ^10.1.0
-  intl: '>=0.18.1 <0.20.0'
+  intl: ">=0.18.0 <0.21.0"
 
   syncfusion_pdfviewer_platform_interface:
     path: ../syncfusion_flutter_pdfviewer_platform_interface
